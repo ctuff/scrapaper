@@ -1,1 +1,0 @@
-upload.bat data.mac
